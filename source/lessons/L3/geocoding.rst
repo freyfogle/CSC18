@@ -31,7 +31,7 @@ different service providers such as:
 -  `Mapquest <http://www.mapquestapi.com/geocoding/>`__
 -  `Mapzen Search <https://mapzen.com/projects/search/>`__
 -  `NaviData <http://navidata.pl>`__
--  `OpenCage <http://geocoder.opencagedata.com/api.html>`__
+-  `OpenCage <https://opencagedata.com/api>`__
 -  `OpenMapQuest <http://developer.mapquest.com/web/products/open/geocoding-service>`__
 -  `Open Street Map Nominatim <https://wiki.openstreetmap.org/wiki/Nominatim>`__
 -  `SmartyStreets <https://smartystreets.com/products/liveaddress-api>`__
